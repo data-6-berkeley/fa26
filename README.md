@@ -1,6 +1,6 @@
 # Data 6 Fall 2026 Website
 
-BADGES HERE
+[![GitHub Pages Deployment](https://github.com/data-6-berkeley/fa26/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-6-berkeley/fa26/actions/workflows/jekyll.yml) [![Accessibility Tests](https://github.com/data-6-berkeley/fa26/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-6-berkeley/fa26/actions/workflows/rspec.yml)
 
 Follow the installation and usage instructions below for development work on the site and large content changes. Small content changes can easily be made on [GitHub](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
 
