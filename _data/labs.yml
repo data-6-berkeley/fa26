@@ -1,0 +1,49 @@
+### LAB ORDERING ###
+# each entry requires either a 'slug' or a 'title' field
+
+# use the slug if you utilize the _labs collection. this will take info
+# from the front matter of the corresponding file in _labs/
+# if your filename has a leading zero, quotes are required around the slug.
+# if you use the _labs collection, the title field will be useful for
+# one-off overrides like holidays or for placeholders; use the title field sparingly
+
+# nonumber supresses the label and numbering for the lab entry
+# skip: true will omit the lab from the schedule entirely
+
+# link overrides the default link to the lab page from the collection if
+# you provided a slug or provides an external link
+labs:
+  - title: Introductions, What is Data Science, Notebooks
+    link:
+  - title: Weapons of Math Destruction; Using notebooks
+    link:
+  - title: Python Names
+    link: 
+  - title: Reflexivity 
+    link: 
+  - title: Arrays
+    link: 
+  - title: Variables & Tables
+    link: 
+  - title: Table Practice
+    link: 
+  - title: Grouping, Pivots, & Joining
+    link: 
+  - title: Conditionals & Iteration
+    link: 
+  - title: Conditionals
+    link: 
+  - title: Statistics
+    link: 
+  - title: Visualizations
+    link:
+  - title: Dictionaries, JSON
+    link: 
+  - title: <b>Holiday - No lab</b>
+    nonumber: true 
+  - title: Final Project Working Time
+    link: 
+  - title: RRR Week
+    nonumber: true
+  - title: Finals Week
+    nonumber: true 

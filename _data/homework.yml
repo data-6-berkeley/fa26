@@ -1,0 +1,27 @@
+### HOMEWORK ORDERING ###
+# each entry requires either a 'slug' or a 'title' field
+
+# use the slug if you utilize the _hw collection. this will take info
+# from the front matter of the corresponding file in _hw/
+# if your filename has a leading zero, quotes are required around the slug.
+# if you use the _hw collection, the title field will be useful for
+# one-off overrides like holidays or for placeholders; use the title field sparingly
+
+# nonumber supresses the label and numbering for the homework entry
+# skip: true will omit the homework from the schedule entirely
+
+# link overrides the default link to the homework page from the collection if 
+# you provided a slug or provides an external link
+homework:
+  - title: Homework 1 (due 9/3 by 9pm)
+    # link: 
+  - skip: true
+  - skip: true
+  - skip: true
+  - skip: true
+  - skip: true
+  - title: Homework 2 (due 10/15 by 9pm)
+  - title: Homework 3 (due 10/22 by 9pm)
+  - title: Homework 4 (due 10/29 by 9pm)
+  - skip: true
+  - title: Homework 5 (due 11/12 by 9pm)

@@ -1,0 +1,14 @@
+# treat this YAML similar to _data/homework.yml
+# you don't have to use this file if you don't want to
+# see DS-100/sp26 for an example of what this looks like.
+# they also implemented lab-due functionality
+homework-due:
+  - skip: true
+  - skip: true
+  - title: Introduction to Python 
+  - title: Arrays and Table Fundamentals
+  - title: Visualizations
+  - title: Functions, Algorithms, and Measurements
+  - skip: true
+  - title: Functions and Conditionals
+  # - title: Education, Admissions, and Simpson’s Paradox

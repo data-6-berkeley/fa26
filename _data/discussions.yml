@@ -1,0 +1,45 @@
+### DISCUSSION ORDERING ###
+# this has been adjusted from the template because data 6 typically releases
+# multiple discussions on the same day. instead of imputing the date for each
+# discussion, a date will be explicitly set and used, as in the case of projects.
+
+# each entry requires either a 'slug' or a 'title' field
+
+# use the slug if you utilize the _discussions collection. this will take info
+# from the front matter of the corresponding file in _discussions/
+# if your filename has a leading zero, quotes are required around the slug.
+# if you use the _discussions collection, the title field will be useful for
+# one-off overrides like holidays or for placeholders; use the title field sparingly
+
+# link overrides the default link to the discussion page from the collection if
+# you provided a slug or provides an external link
+discussions:
+  - title: Weapons of Math Destruction
+    link: https://drive.google.com/drive/folders/1smblQuQSA7cDw1sBA9tGrmqhR34Pru25?usp=drive_link
+    date: 2026-07-10
+  - title: Array Operations & Table Methods
+    link: https://drive.google.com/drive/folders/1ISFmBWdEdeIFgRWXeKHiejL14TAf8Kl1?usp=drive_link
+    date: 2026-07-10
+  - title: Quiz 1 Retros
+    link: https://easyretro.io/publicboard/dpdLysoRBJgS0TSPiKLZDVEgc1W2/af8b6732-8d51-4b46-97eb-c03c4307b067
+    date: 2026-07-17
+  - title: Data Visualization
+    link: https://drive.google.com/drive/folders/1Zn57ZB7FFRF7etOUHa0lSkdGC-uEmusE?usp=drive_link
+    date: 2026-07-17
+  - title: UC Berkeley Graduate Admissions Data
+    link: https://drive.google.com/drive/folders/1YdeOJoEjc0VxbBGTxAtQEuaQg97l5xkr?usp=drive_link
+    date: 2026-07-24
+  - title: Quiz 2 Review
+    link: https://drive.google.com/drive/folders/1aGN5n7CwV9Yuw9Ho7WqDckmQ9pNPCypV?usp=drive_link
+    date: 2026-07-24
+  - title: Reliability and Statistics
+    link: https://drive.google.com/drive/folders/1KorYQ2-AE-DySHlazRlk2qfVRm7aTcKt?usp=drive_link
+    date: 2026-07-31
+  - title: Dictionaries and Bag of Words
+    link: https://drive.google.com/drive/folders/1KorYQ2-AE-DySHlazRlk2qfVRm7aTcKt?usp=drive_link
+    date: 2026-07-31
+  - title: Ethical Principles of AI
+    link: https://drive.google.com/file/d/1aKHn68KnBZiOm8aR5hU5HYVfa-4EHYcj/view?usp=drive_link
+    date: 2026-08-07
+  - slug: tf-idf
+    date: 2026-08-07
