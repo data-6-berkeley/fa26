@@ -136,8 +136,8 @@ Here's how we will calculate your final grade:
 | Discussion Attendance | 2.5% | Weekly discussion section|
 | Lab | 10% | 13 labs, 1 drop |
 | Homework | 20% | 5 homework assignments, 4% each|
-| Projects | 20% | - Project 1 (5%) <br/> - Project 2 (5%) <br/> - Final Project (10%) |
-| Exams | 35% | - Quiz 1 (5%) <br/> - Quiz 2 (5%) <br/> - Final (20%)|
+| Projects | 25% | - Project 1 (5%) <br/> - Project 2 (5%) <br/> - Final Project (15%) |
+| Exams | 30% | - Quiz 1 (5%) <br/> - Quiz 2 (5%) <br/> - Final (20%)|
 
 
 We will share information later in the semester regarding grade bins for letter grades. Please consult Berkeleytime for historical distributions of grade bins (our bins will most likely resemble those of the Fall 2025 semester)!
