@@ -22,7 +22,7 @@ description: >-
 
 ## About &#x1F9D0;
 
-Hi! Welcome to Data 6 Summer 2026! We’re excited to have you on board this semester. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics. Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll learn useful skills that you can apply to your own major or field of study.
+Hi! Welcome to Data 6 Fall 2026! We’re excited to have you on board this semester. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics. Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll learn useful skills that you can apply to your own major or field of study.
 
 ### Course Description
 <!--Data 6 is an introduction to computational thinking and quantitative reasoning, designed to prepare students for further coursework in data science, computer science, and statistics. This course emphasizes the use of computation to gain insight about quantitative problems with real data from the social sciences.-->
@@ -42,7 +42,8 @@ All web platforms are available on our course website: [{{site.url}}{{ site.base
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found on our front page. Consult the [front page]({{site.url}}{{ site.baseurl }}/) for a schedule of course topics, assignments, and due dates. Consult the [Calendar]({{site.url}}{{ site.baseurl }}/calendar_dynamic) page for the times/locations for all weekly engagements.
 * **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions and see announcements. The front page has a button to our [course EdStem](https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion).
 
-    Ed is a formal, academic space. Posts in this forum must relate to the course and be in alignment with [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/). We expect all posts to demonstrate appropriate respect and consideration for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. Posts that violate these standards will be removed.
+Ed is a formal, academic space. Posts in this forum must relate to the course and be in alignment with [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/). We expect all posts to demonstrate appropriate respect and consideration for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. Posts that violate these standards will be removed.
+
 * **DataHub**: This is where you will complete Python assignments on Jupyter Notebooks, an interactive scientific notebook popular in data science applications and Data courses. Access via [https://datahub.berkeley.edu/](https://datahub.berkeley.edu/) or by clicking coding books on the front page.
 * **Gradescope**: This is where you will submit all assignments, including weekly reading assignments. The front page has a button to our [course Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}).
 * **Google Drive**: Lecture resources are on Google Slides (accompanied by notebooks you can access on DataHub). You will occasionally need to submit surveys via Google Forms.
@@ -52,38 +53,41 @@ All web platforms are available on our course website: [{{site.url}}{{ site.base
 
 You are not alone in this course! The staff and instructors are here to support you as you learn the material. It’s expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion), not bCourses. We will also hold in-person office hours that offer drop-in help on assignments and course material. Instructor "Tea Hours" are for advising and are also drop-in (welcome!). See our [Calendar]({{site.url}}{{ site.baseurl }}/calendar_dynamic) for office hour times.
 
-We are a much smaller course than many of the Data Science classes you may encounter at Berkeley. Use this fact to your advantage! The instructor, TAs and UCS1s are here to support you, so please lean on your course staff if you need more support in the class or have any questions/concerns.
+We are a much smaller course than many of the Data Science classes you may encounter at Berkeley. Use this fact to your advantage! The instructors, TA, and UCS1 are here to support you, so please lean on your course staff if you need more support in the class or have any questions/concerns.
 
 ## Course Components	&#x1F4D2;
 
 ### Lecture
 
-* **Lecture**: Lectures are held in-person Mondays - Thursdays in Social Sciences Building 56 and will not be recorded. We will begin at [Berkeley Time](https://www.sfgate.com/bayarea/article/Berkeley-Time-10-minutes-late-university-policy-13182558.php) (10 minutes after the hour), and **attendance is mandatory**. Lectures aim to introduce new ideas and concepts in programming and data science. All lecture resources (slides, code, notes) will be linked on the course website. We recommend skimming the notes beforehand if you can.
+* **Lecture**: Lectures are held in-person Mondays - Thursdays in Social Sciences Building 60 and will not be recorded. We will begin at [Berkeley Time](https://www.sfgate.com/bayarea/article/Berkeley-Time-10-minutes-late-university-policy-13182558.php) (10 minutes after the hour), and **attendance is mandatory**. Lectures aim to introduce new ideas and concepts in programming and data science. All lecture resources (slides, code, notes) will be linked on the course website. We recommend skimming the notes beforehand if you can.
 
-Monday and Wednesday lectures will be held from 10AM to 12PM. Tuesday and Thursday lectures will be held from 10AM to 11AM, and will be followed by a lab section from 11AM to 12PM, which will be held in the same classroom.
+Monday lectures will be held from 10AM to 12PM. 
 
+<!-- TODO: Are we keeping quick checks -->
 During each lecture, there will be a few points at which we stop and ask you to answer a short question. We call these questions **Quick Checks**. They serve two purposes:
 * For us to gauge how well the class understands the material we’re currently covering
 * For you to gauge how well you understand the material we’re currently covering
 
 **Quick Checks are graded on completion, not correctness.** It’s not important to get these questions right on your first try – but it’s important to try them. You will be given time in lecture to answer them. These checks are how we measure attendance.
 
-You have **2 lecture drops**, meaning you can miss up to 2 lectures without penalty, after the first lecture. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected personal or family emergencies, sickness, etc. When calculating grades, we will automatically drop the lowest two lecture attendances from your grade.
+You have **1 lecture drop**, meaning you can miss 1 lecture without penalty, after the first lecture. This drop is not intended to be a “free-pass” to skip a lecture: please reserve them for unexpected personal or family emergencies, sickness, etc. When calculating grades, we will automatically drop the lowest lecture attendance from your grade.
 
 ### Lab
 
-Lab notebooks will give you an opportunity to apply the concepts you learn in lecture to real-world data and to practice coding in Python. We will be working on the lab notebooks together Tuesdays and Thursdays 11AM @ Social Sciences 56, where we aim to finish the bulk of the lab (if not all of it). Labs will be released on Tuesdays and Thursdays and due the same day at 11:59 pm.
+Lab notebooks will give you an opportunity to apply the concepts you learn in lecture to real-world data and to practice coding in Python. We will be working on the lab notebooks together during the two lab sections, which will either be held from 9AM to 11AM in Undergraduate Academic Building 313 or 12PM to 2PM in Undergraduate Academic Building 117 depending on which section you are registered to. We aim to finish the bulk of the lab (if not all of it). Labs will be released on Fridays and due the same day at 11:59 pm.
 
-**60% of lab credit will be attendance-based. The remaining 40% of credit will be awarded for submitting the lab to Gradescope by the 11:59 pm deadline with all public test cases passing.** To earn attendance credit, students must attend the entire discussion and lab section unless they have approval from their GSI to arrive late or leave early. Failure to attend the entire section without prior communication will result in losing attendance credit for that week.
+**60% of lab credit will be attendance-based. The remaining 40% of credit will be awarded for submitting the lab to Gradescope by the 11:59 pm deadline with all public test cases passing.** To earn attendance credit, students must attend the entire discussion and lab section unless they have approval from their Graduate Student Instructor (GSI) to arrive late or leave early. Failure to attend the entire section without prior communication will result in losing attendance credit for that week.
 
-You have **1 lab drop** to use in the event of extenuating circumstances that prevent them from completing the assignment. ~~To use a lab drop, you must message your TA at least one hour prior to the start of your lab, informing them that you will not be in attendance. Note that like lecture drops, lab drops are expected to be used only in the case of illness, emergencies, or other circumstances that prevent you from attending.~~ [Update 7/31] When calculating grades, we will automatically drop your lowest lab score. For specific concerns related to your lab section, contact your TA.
+You have **1 lab drop** to use in the event of extenuating circumstances that prevent them from completing the assignment. To use a lab drop, you must message your TA at least one hour prior to the start of your lab, informing them that you will not be in attendance. Note that like lecture drops, lab drops are expected to be used only in the case of illness, emergencies, or other circumstances that prevent you from attending.
+<!--TODO: Not sure if keeping this: When calculating grades, we will automatically drop your lowest lab score. For specific concerns related to your lab section, contact your TA. -->
 
 ### Readings
 
-Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released Friday evenings and due **Thursday at 11:59PM**, the evening before discussion section. [Update 7/31] You will have **1 reading drop**, meaning your lowest reading assignment will be automatically dropped from your grade.
+Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released Monday evenings and due **Thursday at 11:59PM**, the evening before discussion section. 
+<!--[Update 7/31] You will have **1 reading drop**, meaning your lowest reading assignment will be automatically dropped from your grade.-->
 
 ### Discussion
-Each Friday (10AM - 12PM), we will have a two hour discussion section led by your [uGSI]({{site.url}}{{ site.baseurl }}/staff) which is **mandatory to attend**.
+Each Friday, we will have a two hour discussion section led by your [uGSI]({{site.url}}{{ site.baseurl }}/staff) which is **mandatory to attend**.
 
 Discussions across the term will be separated into two "tracks". Social sciences and technical discussions.
 
@@ -93,7 +97,6 @@ Sometimes, discussion topics will include content covering sensitive issues, lik
 
 Technical sections will focus more on practicing the syntax and concepts that we introduce during lecture. The problems in section are good preparation for similar (and harder) problems you will see on your homework assignments! Section materials will be released Thursdays evenings each week.
 
-
 ### Assignments
 You learn data science by **doing** data science, not by just listening to lectures or reading a textbook. As such, homework assignments will be your primary source of learning in this class.
 
@@ -101,7 +104,7 @@ You learn data science by **doing** data science, not by just listening to lectu
 
 Homework assignments will consist mainly of programming problems that challenge you to apply the skills you learned in recent lectures to accomplish tasks involving real data. The homeworks use autograder tests that will tell you if you are on the right track. There are additional autograder tests that will not be visible to you that we will use to grade your work, so don’t assume that just because the public autograder tests are passing that your answers are all correct. **Always remember to double check your code!** Most homeworks will also include a few written response problems, where you will have to type your answer in text. These problems will be manually graded by a human on course staff, and often there is no single ‘right’ solution. We are mainly looking for you to show understanding of what you are doing and to explain your reasoning behind certain answers.
 
-Homework assignments will generally be released Mondays and Wednesdays and due the following Monday/Wednesday at **11:59PM**. Access homework by clicking a homework link on the front page, which will bring you to your own copy of the homework notebook in DataHub, which allows you to work on the homework online. Once you’re done with the homework, you will run the very last cell in the notebook to generate a `.zip` file, which you will then upload to [Gradescope](https://www.gradescope.com/courses/1331690) so that we can grade it. We will go over this process in more detail in lecture.
+Homework assignments will generally be released Mondays and due the following Wednesday at **11:59PM**. Access homework by clicking a homework link on the front page, which will bring you to your own copy of the homework notebook in DataHub, which allows you to work on the homework online. Once you’re done with the homework, you will run the very last cell in the notebook to generate a `.zip` file, which you will then upload to the [course Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id}}) so that we can grade it. We will go over this process in more detail in lecture.
 
 #### Projects
 
@@ -114,9 +117,9 @@ The projects can seem long and difficult, but you are not alone! Come to office 
 ### Quizzes and Exams
 There are 2 in-class quizzes and one final exam. The final exam is required for a passing grade. The below quiz dates are tentative:
 
-* Quiz 1: Wednesday at 10AM, July 15th, in-class
-* Quiz 2: Wednesday at 10AM, July 29th, in-class
-* Final Exam: Friday at 10AM, August 14th, in-class
+* Quiz 1: Monday at 10AM, September 28th, in-class
+* Quiz 2: Monday at 10AM, October 19th, in-class
+* Final Exam: Friday at 10AM, December 18th, in-class
 
 There will not be alternate exams. All exams will be held in-person. More details about quizzes and exams will be posted ot Ed.
 
@@ -127,14 +130,14 @@ There will not be alternate exams. All exams will be held in-person. More detail
 Here's how we will calculate your final grade:
 
 | **Component** | **Weight** | **Notes** |
-| Surveys | 2.5% | 6 course surveys |
-| Lecture Attendance| 2.5% | 24 lectures, 2 drops |
-| Readings | 7.5% | 6 readings, 1 drop |
-| Discussion Attendance | 2.5% |Weekly discussion section|
-| Lab | 10% | 11 labs, 1 drop |
-| Homework | 20% |5 homework assignments, 4% each|
-| Projects | 20% | - Project 1 (8%) <br/> - Final Project (12%) |
-| Exams | 35% | - Quiz 1 (5%) <br/> - Quiz 2 (10%) <br/> - Final (20%)|
+| Surveys | 2.5% | 3 course surveys |
+| Lecture Attendance| 2.5% | 13 lectures, 1 drop |
+| Readings | 7.5% | 13 readings, 1 drop |
+| Discussion Attendance | 2.5% | Weekly discussion section|
+| Lab | 10% | 13 labs, 1 drop |
+| Homework | 20% | 5 homework assignments, 4% each|
+| Projects | 20% | - Project 1 (5%) <br/> - Project 2 (5%) <br/> - Final Project (10%) |
+| Exams | 35% | - Quiz 1 (5%) <br/> - Quiz 2 (5%) <br/> - Final (20%)|
 
 
 We will share information later in the semester regarding grade bins for letter grades. Please consult Berkeleytime for historical distributions of grade bins (our bins will most likely resemble those of the Fall 2025 semester)!
@@ -145,14 +148,14 @@ Grades for Homeworks, Projects, and Labs will be posted on Gradescope within a t
 
 All assignments (homework, labs, and projects) will be submitted on Gradescope. Please refer to [this tutorial](https://drive.google.com/file/d/1JU-p1qYKEFQBRoI6p24tx_-Cj0dySN9h/view) for submitting assignments.
 
-We understand that the submission process is new for many students taking the course. To account for this, we will do our best to accommodate submission-related issues (submitting to the wrong assignment, not saving files correctly, autograder timing out) up until the third week of the course. After the third week, it is your responsibility to confirm you have submitted your work correctly. We reserve the right to impose penalties for having to resubmit students’ work beyond this point.
+We understand that the submission process is new for many students taking the course. To account for this, we will do our best to accommodate submission-related issues (submitting to the wrong assignment, not saving files correctly, autograder timing out) up until the fourth week of the course. After the fourth week, it is your responsibility to confirm you have submitted your work correctly. We reserve the right to impose penalties for having to resubmit students’ work beyond this point.
 
 ### Late Submissions
-The deadline for all assignments in this course is 11:59 PM PT for programming assignments (lab, homework, project assignments) and reading assignments (Gradescope "quizzes"). Submissions after this time will be accepted for 24 hours and will incur a 20% penalty. Any submissions later than 24 hours after the deadline will not be accepted. 
+The deadline for all assignments in this course is 11:59PM PT for programming assignments (lab, homework, project assignments) and reading assignments (Gradescope "quizzes"). Submissions after this time will be accepted for 24 hours and will incur a 20% penalty. Any submissions later than 24 hours after the deadline will not be accepted. 
 
-*Exceptions:* Lab, Homework, and Projects have a 24 hour grace period, meaning you can submit the assignment up to 24 hours late with _no penalty_ to your grade. Lab and Homework submissions will not be accepted after the grace period (24 hours from original deadline). Projects will be accepted up to 24 hours after the grace period (48 hours from original deadline), however any submission after the grace period will incur a 20% penalty.
+<!--*Exceptions:* Lab, Homework, and Projects have a 24 hour grace period, meaning you can submit the assignment up to 24 hours late with _no penalty_ to your grade. Lab and Homework submissions will not be accepted after the grace period (24 hours from original deadline). Projects will be accepted up to 24 hours after the grace period (48 hours from original deadline), however any submission after the grace period will incur a 20% penalty.-->
 
-**Extensions**: We understand that life happens and want to provide you with the support you need. We don't want to penalize you because of circumstances that are out of your control. If you have an ongoing situation that prevents you from completing course content, please contact the course instructor and/or TA. This includes assignment extension requests, in which case you must notify us within 24 hours before the deadline. Only request an extension if you have used up all your assignment drops. As long as your request is within reason, there's a good chance of it being granted, in which case we will add the extension to your submission on Gradescope. Please note that unless there are extenuating circumstances, we will not approve extensions beyond 48 hours - this is to help you keep pace with the pace of summer courses and prevent assignments from piling up.
+**Extensions**: We understand that life happens and want to provide you with the support you need. We don't want to penalize you because of circumstances that are out of your control. If you have an ongoing situation that prevents you from completing course content, please contact the course instructors and/or TA. This includes assignment extension requests, in which case you must notify us within 24 hours before the deadline. Only request an extension if you have used up your assignment drop. As long as your request is within reason, there's a good chance of it being granted, in which case we will add the extension to your submission on Gradescope. Please note that unless there are extenuating circumstances, we will not approve extensions beyond 48 hours - this is to help you stay on track and prevent assignments from piling up.
 
 ### Accommodations
 
@@ -165,7 +168,6 @@ If you’re not enrolled in DSP, or are in the process of being onboarded by DSP
 **Religious Observance**: If you require accommodation for religious observance, please contact us at least a week before the deadline in question to make arrangements.
 
 **Privacy**: All accommodations-related materials for this course are kept in a repository separate from the rest of the course materials that is visible only to the instructors and TA.
-
 
 ### Academic Honesty and Learning Collaboratively
 This may be the first class you take at UC Berkeley --— we know that taking your first class can be stressful. But the main point of this class (and of data science in general) is to try things out and learn from your mistakes, not necessarily to get everything right on the first try. This class is designed to encourage you to learn through exploration, so we hope you focus on learning skills that you might use later, instead of focusing on getting a good grade.

@@ -13,15 +13,17 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - title: Homework 1 (due 9/3 by 9pm)
+  - title: Homework 1 (due 9/9 by 11:59pm)
+    # link: 
+  - title: Homework 2 (due 9/16 by 11:59pm)
     # link: 
   - skip: true
   - skip: true
   - skip: true
+  - title: Homework 3 (due 10/7 by 11:59pm)
   - skip: true
   - skip: true
-  - title: Homework 2 (due 10/15 by 9pm)
-  - title: Homework 3 (due 10/22 by 9pm)
-  - title: Homework 4 (due 10/29 by 9pm)
+  - title: Homework 4 (due 11/4 by 11:59pm)
   - skip: true
-  - title: Homework 5 (due 11/12 by 9pm)
+  - skip: true
+  - title: Homework 5 (due 11/25 by 11:59pm)

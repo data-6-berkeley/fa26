@@ -10,18 +10,18 @@ end_date: "2026-12-18"
 # Any other days you want to appear on the calendar (e.g. for one-time events
 # like exams or bonus lectures) can be listed here. These appear in the second column.
 extra_days_col2:
-  - date: "2026-08-28"
+  - date: "2026-08-31"
     title: Survey 1 (due 8/31 by 5pm)
     label: survey
     # link: 
-  - date: "2026-09-28"
-    title: Survey 2 (due 10/2 by 5pm)
-    label: survey
-    # link: 
-  - date: "2026-11-23"
-    title: Survey 3 (due 12/3 by 5pm)
-    label: survey
-    # link: 
+  # - date: "2026-09-28"
+  #   title: Survey 2 (due 10/2 by 5pm)
+  #   label: survey
+  #   # link: 
+  # - date: "2026-11-23"
+  #   title: Survey 3 (due 12/3 by 5pm)
+  #   label: survey
+  #  # link: 
   # - date: "2026-08-14"
   #   title: Final Exam
   #   label: exam
@@ -34,13 +34,13 @@ extra_links_col3:
 # For example, for a semester with Tu/Th lectures, put ['2', '4'].
 # For example, for a semester with MWF lectures, put ['1', '3', '5'].
 # For example, for a summer semester, put ['1', '2', '3', '4'].
-class_days: ['1',]
+class_days: ['1']
 lab_days: ['5']
 hw_days: ['1']
-hw_due_days: []
+hw_due_days: ['3']
 quiz_days: ['1']
-discussion_days: ['1']
-reading_days: ['1']
+discussion_days: ['5']
+reading_days: ['1'] # TODO should reading days be when they are due or when they are assigned (1 for assigned, 4 for due)
 
 # Where should we start automatically numbering each course component?
 # For example, if you set starting_homework_number to 0, then the first homework

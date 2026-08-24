@@ -32,7 +32,7 @@ url: 'https://data6.org' # the hostname & protocol for your site, e.g. http://ex
 # TODO(setup): Set all of these course variables
 course: Data 6
 course_email: 
-gradescope_course_id: 1331690 # you can find this in the Gradescope URL after /courses
+gradescope_course_id: 1362504 # you can find this in the Gradescope URL after /courses
 bcourses_course_id: 1556887 # Same as above, but for bCourses. Leave blank if not in use...
 ed_course_id: 101240 # Again, same as above.
 sememster: fa26 # set for the current seemester

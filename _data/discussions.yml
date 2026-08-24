@@ -14,32 +14,42 @@
 # link overrides the default link to the discussion page from the collection if
 # you provided a slug or provides an external link
 discussions:
-  - title: Weapons of Math Destruction
-    link: https://drive.google.com/drive/folders/1smblQuQSA7cDw1sBA9tGrmqhR34Pru25?usp=drive_link
-    date: 2026-07-10
-  - title: Array Operations & Table Methods
-    link: https://drive.google.com/drive/folders/1ISFmBWdEdeIFgRWXeKHiejL14TAf8Kl1?usp=drive_link
-    date: 2026-07-10
-  - title: Quiz 1 Retros
-    link: https://easyretro.io/publicboard/dpdLysoRBJgS0TSPiKLZDVEgc1W2/af8b6732-8d51-4b46-97eb-c03c4307b067
-    date: 2026-07-17
-  - title: Data Visualization
-    link: https://drive.google.com/drive/folders/1Zn57ZB7FFRF7etOUHa0lSkdGC-uEmusE?usp=drive_link
-    date: 2026-07-17
-  - title: UC Berkeley Graduate Admissions Data
-    link: https://drive.google.com/drive/folders/1YdeOJoEjc0VxbBGTxAtQEuaQg97l5xkr?usp=drive_link
-    date: 2026-07-24
+  - title: Considering Fractions
+    # link: https://drive.google.com/drive/folders/1smblQuQSA7cDw1sBA9tGrmqhR34Pru25?usp=drive_link
+    date: 2026-09-04
+  - title: Documentation, Array Operations and Table Methods
+    # link: https://drive.google.com/drive/folders/1ISFmBWdEdeIFgRWXeKHiejL14TAf8Kl1?usp=drive_link
+    date: 2026-09-11
+  - title: Reflexivity
+    # link: https://easyretro.io/publicboard/dpdLysoRBJgS0TSPiKLZDVEgc1W2/af8b6732-8d51-4b46-97eb-c03c4307b067
+    date: 2026-09-18
+  - title: Quiz 1 Review
+    # link: https://drive.google.com/drive/folders/1Zn57ZB7FFRF7etOUHa0lSkdGC-uEmusE?usp=drive_link
+    date: 2026-09-25
+  - title: Visualizations
+    # link: https://drive.google.com/drive/folders/1YdeOJoEjc0VxbBGTxAtQEuaQg97l5xkr?usp=drive_link
+    date: 2026-10-02
+  - title: Simpson's Paradox
+    # link: https://drive.google.com/drive/folders/1aGN5n7CwV9Yuw9Ho7WqDckmQ9pNPCypV?usp=drive_link
+    date: 2026-10-09
   - title: Quiz 2 Review
-    link: https://drive.google.com/drive/folders/1aGN5n7CwV9Yuw9Ho7WqDckmQ9pNPCypV?usp=drive_link
-    date: 2026-07-24
-  - title: Reliability and Statistics
-    link: https://drive.google.com/drive/folders/1KorYQ2-AE-DySHlazRlk2qfVRm7aTcKt?usp=drive_link
-    date: 2026-07-31
-  - title: Dictionaries and Bag of Words
-    link: https://drive.google.com/drive/folders/1KorYQ2-AE-DySHlazRlk2qfVRm7aTcKt?usp=drive_link
-    date: 2026-07-31
-  - title: Ethical Principles of AI
-    link: https://drive.google.com/file/d/1aKHn68KnBZiOm8aR5hU5HYVfa-4EHYcj/view?usp=drive_link
-    date: 2026-08-07
-  - slug: tf-idf
-    date: 2026-08-07
+    # link: https://drive.google.com/drive/folders/1KorYQ2-AE-DySHlazRlk2qfVRm7aTcKt?usp=drive_link
+    date: 2026-10-16
+  - title: Measurement
+    # link: https://drive.google.com/drive/folders/1KorYQ2-AE-DySHlazRlk2qfVRm7aTcKt?usp=drive_link
+    date: 2026-10-23
+  - title: Discussion 9 # Ethical Principles of AI
+    # link: https://drive.google.com/file/d/1aKHn68KnBZiOm8aR5hU5HYVfa-4EHYcj/view?usp=drive_link
+    date: 2026-10-30
+  - title: Data Privacy, Join, Group, Pivots
+    # link: 
+    date: 2026-11-06
+  - title: Iterations & Algorithms
+    # link: 
+    date: 2026-11-13
+  - title: Functions and Conditionals
+    # link: 
+    date: 2026-11-20
+  - title: Final Project Working Time
+    # link: 
+    date: 2026-12-04

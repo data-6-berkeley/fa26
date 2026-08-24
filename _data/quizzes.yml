@@ -18,13 +18,13 @@ quizzes:
   - skip: true
   - skip: true
   - title: Quiz 1
-  - title: Quiz 1 Retake
   - skip: true
   - skip: true
   - title: Quiz 2
-  - title: Quiz 2 Retake
+  - skip: true
+  - skip: true
+  - skip: true
   - skip: true
   - title: Quiz 3
-  - title: Quiz 3 Retake
 
 

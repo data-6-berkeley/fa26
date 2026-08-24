@@ -19,22 +19,23 @@
 # providing the readings field.
 
 lectures:
-  - slug: names
-  - slug: data-types
+  - slug: data-types-arrays
+  - slug: tables
   - title: <b>Holiday - No Lecture</b>
     nonumber: true
-  - slug: arrays
-  - slug: tables
-  - slug: filtering
-  - slug: grouping
+  - slug: filtering-grouping
+  - slug: visualizations
+  - slug: variables
+  - slug: stats
+  - slug: measurement
+  - slug: dictionaries
+  - slug: pivots-joins
   - slug: control
   - slug: functions
-  - slug: stats
-  - slug: visualizations
-  - slug: files
   - slug: computational-social-science
   - slug: ai-nlp
-  - slug: llm
+  - title: RRR Week
+    nonumber: true
   - title: Finals Week
     nonumber: true
 
