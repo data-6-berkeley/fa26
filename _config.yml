@@ -101,7 +101,7 @@ google_calendar:
       text_color: '000'
       class: cal-oh
       icon: fa-person-circle-question
-    - suffix: Section
+    - prefix: Data 6 Lab
       background_color: 'b9e192' # purple
       text_color: '000'
       class: cal-disc-section
