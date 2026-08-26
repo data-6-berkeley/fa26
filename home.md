@@ -9,9 +9,6 @@ seo:
   name: Berkeley Class Site
 ---
 
-{: .warning }
-⚠️ The content on this page is subject to change until this banner is removed.
-
 # **Data 6: Introduction to Computational Thinking with Data Science and Society &#x1f4ca;**
 
 {: .mb-2 }

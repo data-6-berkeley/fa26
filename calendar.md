@@ -5,9 +5,6 @@ description: Class schedule.
 nav_order: 3
 ---
 
-{: .warning } 
-⚠️ The content on this page is subject to change until this banner is removed.
-
 # Calendar
 
 {: .fs-4}

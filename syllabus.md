@@ -6,9 +6,6 @@ description: >-
     Course policies and information.
 ---
 
-{: .warning } 
-⚠️ The content on this page is subject to change until this banner is removed.
-
 # Syllabus
 {:.no_toc}
 
