@@ -20,5 +20,5 @@ readings:
   - title: Reading 10 (due 11/5 by 11:59pm)
   - title: Reading 11 (due 11/12 by 11:59pm)
   - title: Reading 12 (due 11/19 by 11:59pm)
-  - title: Reading 13 (due 11/25 by 11:59pm)
-  - title: Reading 14 (due 12/3 by 11:59pm)
+  - skip: true
+  - title: Reading 13 (due 12/3 by 11:59pm)

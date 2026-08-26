@@ -4,11 +4,15 @@
 # they also implemented lab-due functionality
 homework-due:
   - skip: true
-  - skip: true
-  - title: Introduction to Python 
+  - title: Introduction to Python and Jupyter
   - title: Arrays and Table Fundamentals
-  - title: Visualizations
-  - title: Functions, Algorithms, and Measurements
+  - skip: true
+  - skip: true
+  - skip: true
+  - title: Visualizations & Variables
+  - skip: true
+  - skip: true
+  - title: Dictionaries
+  - skip: true
   - skip: true
   - title: Functions and Conditionals
-  # - title: Education, Admissions, and Simpson’s Paradox

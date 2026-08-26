@@ -14,30 +14,30 @@
 # you provided a slug or provides an external link
 labs:
   - title: Introductions, What is Data Science, Notebooks
-    link:
-  - title: Weapons of Math Destruction; Using notebooks
-    link:
+    link: 
   - title: Python Names
+    link:
+  - title: Print, Arrays, & Tables
     link: 
   - title: Reflexivity 
     link: 
-  - title: Arrays
-    link: 
-  - title: Variables & Tables
-    link: 
-  - title: Table Practice
-    link: 
-  - title: Grouping, Pivots, & Joining
-    link: 
-  - title: Conditionals & Iteration
-    link: 
-  - title: Conditionals
-    link: 
-  - title: Statistics
+  - title: TODO Need Lab
     link: 
   - title: Visualizations
+    link: 
+  - title: Food Safety
+    link: 
+  - title: Summary Statistics
+    link: 
+  - title: TODO Need Lab
+    link: 
+  - title: Dictionaries
+    link: 
+  - title: Pivots & Joins | BeautifulSoup
+    link: 
+  - title: Iterations
     link:
-  - title: Dictionaries, JSON
+  - title: Functions
     link: 
   - title: <b>Holiday - No lab</b>
     nonumber: true 

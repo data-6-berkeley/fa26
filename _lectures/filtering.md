@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: John Louis-Strakes Lopez 
-title: Table Practice; Filtering & Boolean Predicates 
+title: Filtering, Boolean Predicates, & Grouping
 # files:
 #   slides: 
 #   pdf_slides:

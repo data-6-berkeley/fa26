@@ -1,14 +1,13 @@
 ---
 published: true
 presented_by: John Louis-Strakes Lopez 
-title: Visualizations
+title: "Pivots & Joining"
 # files:
 #   slides: 
-#   code: 
 #   pdf_slides:
-#   code:
+#   code: 
 #   code_html:
-#   jupyter_notebook:
+#   jupyter_notebook: 
 #   notes:
 # recording: 
 ---
