@@ -73,7 +73,7 @@ nav_external_links:
 google_calendar:
   # This can be found in the settings for the calendar.
   # The calendar must be publicly readable.
-  google_calendar_id: c_2409797b9da8af517001463e8cb57142de0fe90415fc792d4742c59b4d166a7c@group.calendar.google.com
+  google_calendar_id: c_6c1174c288b76444c378aa136dfec1d1db6723c3551bdfa1a0f7d01a54d7781b@group.calendar.google.com
   # You need to make this, once per course, ideally via a SPA
   # TODO: Recommend adding link to Google cloud project here
   google_api_key: AIzaSyBA4Xa8Eukp3OREzlP87aBAmHqbzycU15w
