@@ -14,7 +14,7 @@
 # you provided a slug or provides an external link
 labs:
   - title: Introductions, What is Data Science, Notebooks
-    link:
+    link: 
   - title: Python Names
     link:
   - title: Print, Arrays, & Tables

@@ -14,6 +14,9 @@
 # link overrides the default link to the discussion page from the collection if
 # you provided a slug or provides an external link
 discussions:
+  - title: Course Questions
+    link: https://docs.google.com/presentation/d/108UPwAYAGVVauozM0jIeAmLemr8Nv5Mvk4Mab2y0aA8/edit?slide=id.g3fadccd92bd_2_231#slide=id.g3fadccd92bd_2_231
+    date: 2026-08-28
   - title: Considering Fractions
     # link: https://drive.google.com/drive/folders/1smblQuQSA7cDw1sBA9tGrmqhR34Pru25?usp=drive_link
     date: 2026-09-04
@@ -38,7 +41,7 @@ discussions:
   - title: Measurement
     # link: https://drive.google.com/drive/folders/1KorYQ2-AE-DySHlazRlk2qfVRm7aTcKt?usp=drive_link
     date: 2026-10-23
-  - title: Discussion 9 # Ethical Principles of AI
+  - title: Dictionaries # Ethical Principles of AI
     # link: https://drive.google.com/file/d/1aKHn68KnBZiOm8aR5hU5HYVfa-4EHYcj/view?usp=drive_link
     date: 2026-10-30
   - title: Data Privacy, Join, Group, Pivots

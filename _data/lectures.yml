@@ -23,7 +23,7 @@ lectures:
   - slug: tables
   - title: <b>Holiday - No Lecture</b>
     nonumber: true
-  - slug: filtering-grouping
+  - slug: filtering
   - slug: visualizations
   - slug: variables
   - slug: stats

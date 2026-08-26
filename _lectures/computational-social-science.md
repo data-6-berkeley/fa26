@@ -1,7 +1,7 @@
 ---
 published: true
-title: Computational Social Science & Qualitative Coding/Quant Focus (confusion matrix)
-presented_by: John Louis-Strakes Lopez and Jonathan A. Pedroza
+title: Computational Social Science
+presented_by: John Louis-Strakes Lopez
 # files:
 #   slides: 
 #   code: 

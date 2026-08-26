@@ -59,7 +59,7 @@ We are a much smaller course than many of the Data Science classes you may encou
 
 ### Lecture
 
-* **Lecture**: Lectures are held in-person Mondays - Thursdays in Social Sciences Building 60 and will not be recorded. We will begin at [Berkeley Time](https://www.sfgate.com/bayarea/article/Berkeley-Time-10-minutes-late-university-policy-13182558.php) (10 minutes after the hour), and **attendance is mandatory**. Lectures aim to introduce new ideas and concepts in programming and data science. All lecture resources (slides, code, notes) will be linked on the course website. We recommend skimming the notes beforehand if you can.
+* **Lecture**: Lectures are held in-person Mondays in Social Sciences Building 60 and will not be recorded. We will begin at [Berkeley Time](https://www.sfgate.com/bayarea/article/Berkeley-Time-10-minutes-late-university-policy-13182558.php) (10 minutes after the hour), and **attendance is mandatory**. Lectures aim to introduce new ideas and concepts in programming and data science. All lecture resources (slides, code, notes) will be linked on the course website. We recommend skimming the notes beforehand if you can.
 
 Monday lectures will be held from 10AM to 12PM. 
 

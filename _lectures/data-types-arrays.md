@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: John Louis-Strakes Lopez 
-title: Data Types, Typecasting, Arrays
+title: Data Types, Arrays, & NumPy
 # files:
 #   slides: 
 #   pdf_slides:

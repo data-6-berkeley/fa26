@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: John Louis-Strakes Lopez 
-title: Variables & Table Fundamentals
+title: Table Fundamentals
 # files:
 #   slides:
 #   pdf_slides:

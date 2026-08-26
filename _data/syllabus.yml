@@ -11,7 +11,7 @@ end_date: "2026-12-18"
 # like exams or bonus lectures) can be listed here. These appear in the second column.
 extra_days_col2:
   - date: "2026-08-31"
-    title: Survey 1 (due 8/31 by 5pm)
+    title: Survey 1 (due 8/31 by 11:59pm)
     label: survey
     # link: 
   # - date: "2026-09-28"
