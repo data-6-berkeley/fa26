@@ -63,13 +63,6 @@ We are a much smaller course than many of the Data Science classes you may encou
 
 Monday lectures will be held from 10AM to 12PM. 
 
-<!-- TODO: Are we keeping quick checks -->
-During each lecture, there will be a few points at which we stop and ask you to answer a short question. We call these questions **Quick Checks**. They serve two purposes:
-* For us to gauge how well the class understands the material we’re currently covering
-* For you to gauge how well you understand the material we’re currently covering
-
-**Quick Checks are graded on completion, not correctness.** It’s not important to get these questions right on your first try – but it’s important to try them. You will be given time in lecture to answer them. These checks are how we measure attendance.
-
 You have **1 lecture drop**, meaning you can miss 1 lecture without penalty, after the first lecture. This drop is not intended to be a “free-pass” to skip a lecture: please reserve them for unexpected personal or family emergencies, sickness, etc. When calculating grades, we will automatically drop the lowest lecture attendance from your grade.
 
 ### Lab
@@ -83,10 +76,11 @@ You have **1 lab drop** to use in the event of extenuating circumstances that pr
 
 ### Readings
 
-Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released Monday evenings and due **Thursday at 11:59PM**, the evening before discussion section. 
+Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released Monday evenings and due **Thursday at 11:59PM**, the evening before discussion sections. 
 <!--[Update 7/31] You will have **1 reading drop**, meaning your lowest reading assignment will be automatically dropped from your grade.-->
 
 ### Discussion
+
 Each Friday, we will have a two hour discussion section led by your [TA]({{site.url}}{{ site.baseurl }}/staff) which is **mandatory to attend**.
 
 Discussions across the term will be separated into two "tracks". Social sciences and technical discussions.
@@ -121,7 +115,7 @@ There are 2 in-class quizzes and one final exam. The final exam is required for 
 * Quiz 2: Monday at 10AM, October 19th, in-class
 * Final Exam: Monday at 8AM, December 14th, in-class
 
-There will not be alternate exams. All exams will be held in-person. More details about quizzes and exams will be posted ot Ed.
+There will not be alternate exams. All exams will be held in-person. More details about quizzes and exams will be posted to Ed.
 
 ## Policies &#x1F4D1;
 
@@ -139,7 +133,6 @@ Here's how we will calculate your final grade:
 | Projects | 25% | - Project 1 (5%) <br/> - Project 2 (5%) <br/> - Final Project (15%) |
 | Exams | 30% | - Quiz 1 (5%) <br/> - Quiz 2 (5%) <br/> - Final (20%)|
 
-
 We will share information later in the semester regarding grade bins for letter grades. Please consult Berkeleytime for historical distributions of grade bins (our bins will most likely resemble those of the Fall 2025 semester)!
 
 Grades for Homeworks, Projects, and Labs will be posted on Gradescope within a timely manner after the assignment’s due date. It is up to you to check the solutions and request a regrade request before the regrade deadline on Gradescope (48 hour regrade window). Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so again: please do not delay reviewing your work.
@@ -151,6 +144,7 @@ All assignments (homework, labs, and projects) will be submitted on Gradescope. 
 We understand that the submission process is new for many students taking the course. To account for this, we will do our best to accommodate submission-related issues (submitting to the wrong assignment, not saving files correctly, autograder timing out) up until the fourth week of the course. After the fourth week, it is your responsibility to confirm you have submitted your work correctly. We reserve the right to impose penalties for having to resubmit students’ work beyond this point.
 
 ### Late Submissions
+
 The deadline for all assignments in this course is 11:59PM PT for programming assignments (lab, homework, project assignments) and reading assignments (Gradescope "quizzes"). Submissions after this time will be accepted for 24 hours and will incur a 20% penalty. Any submissions later than 24 hours after the deadline will not be accepted. 
 
 <!--*Exceptions:* Lab, Homework, and Projects have a 24 hour grace period, meaning you can submit the assignment up to 24 hours late with _no penalty_ to your grade. Lab and Homework submissions will not be accepted after the grace period (24 hours from original deadline). Projects will be accepted up to 24 hours after the grace period (48 hours from original deadline), however any submission after the grace period will incur a 20% penalty.-->
@@ -170,6 +164,7 @@ If you’re not enrolled in DSP, or are in the process of being onboarded by DSP
 **Privacy**: All accommodations-related materials for this course are kept in a repository separate from the rest of the course materials that is visible only to the instructors and TA.
 
 ### Academic Honesty and Learning Collaboratively
+
 This may be the first class you take at UC Berkeley --— we know that taking your first class can be stressful. But the main point of this class (and of data science in general) is to try things out and learn from your mistakes, not necessarily to get everything right on the first try. This class is designed to encourage you to learn through exploration, so we hope you focus on learning skills that you might use later, instead of focusing on getting a good grade.
 
 Data science is a collaborative activity. As such, we encourage you to discuss homework and lab assignments at a high level with other students. With that said, you must write all code and solutions individually in your own words. **Rather than copying someone else's work, ask for help.** You are not alone in this course! We're here to help you succeed, and if you invest the time to learn the materal and complete the assignments, you won't need to copy any answers. If you use code you found online, please cite it in a comment and briefly explain what the code does.
@@ -183,6 +178,7 @@ Please read Berkeley’s [Code of Conduct](https://conduct.berkeley.edu/code-of-
 ## Campus Resources &#x1F3EB;
 
 ### Technology Resources
+
 Since all Data 6 material is accessible online, there are no requirements in terms of specific computer hardware. All you need is a laptop with internet and a web browser (Google Chrome or Firefox tend to work best). If you looking to purchase, rent, or borrow a laptop for college, Prof. Lisa Yan put together this [helpful guide](https://docs.google.com/document/d/1avUDkT5yvW_XycvVYP9LevJP791a9CdxuCAzQB1tYfc/edit?usp=sharing).
 
 Here are a few helpful resources when it comes to technology:
@@ -190,6 +186,7 @@ Here are a few helpful resources when it comes to technology:
 * **Device lending options**: The [Student Technology Equity Program](https://studenttech.berkeley.edu/step) provides free laptop loans for students.
 
 ### Data Science Student Climate
+
 [Data Science Undergraduate Studies](https://cdss.berkeley.edu/dsus) faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://data.berkeley.edu/equity-inclusion). We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at [cpteller@berkeley.edu](mailto:cpteller@berkeley.edu) or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform).
 
 
