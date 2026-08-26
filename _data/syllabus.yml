@@ -22,9 +22,9 @@ extra_days_col2:
   #   title: Survey 3 (due 12/3 by 5pm)
   #   label: survey
   #  # link: 
-  # - date: "2026-08-14"
-  #   title: Final Exam
-  #   label: exam
+  - date: "2026-12-14"
+    title: Final Exam (8am - 11am; Location TBD)
+    label: exam
 
 # The dates used in extra_links_col3 below must already be included on the calendar
 # Use this to provide extra links in the third (reading) column

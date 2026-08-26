@@ -10,6 +10,6 @@ date: 2026-08-26
 - Brandon (Gateway B1040E) from 12:30pm - 2pm on Thursdays
 
 ## Discussion & Lab Due
-- [Discussion 1]()
-- [Lab 1]()
+- [Discussion 1]() is due at 11:59pm on August 28th
+- [Lab 1]() is due at 11:59pm on August 28th
 
