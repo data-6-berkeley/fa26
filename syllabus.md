@@ -76,7 +76,7 @@ You have **1 lecture drop**, meaning you can miss 1 lecture without penalty, aft
 
 Lab notebooks will give you an opportunity to apply the concepts you learn in lecture to real-world data and to practice coding in Python. We will be working on the lab notebooks together during the two lab sections, which will either be held from 9AM to 11AM in Undergraduate Academic Building 313 or 12PM to 2PM in Undergraduate Academic Building 117 depending on which section you are registered to. We aim to finish the bulk of the lab (if not all of it). Labs will be released on Fridays and due the same day at 11:59 pm.
 
-**60% of lab credit will be attendance-based. The remaining 40% of credit will be awarded for submitting the lab to Gradescope by the 11:59 pm deadline with all public test cases passing.** To earn attendance credit, students must attend the entire discussion and lab section unless they have approval from their Graduate Student Instructor (GSI) to arrive late or leave early. Failure to attend the entire section without prior communication will result in losing attendance credit for that week.
+**60% of lab credit will be attendance-based. The remaining 40% of credit will be awarded for submitting the lab to Gradescope by the 11:59 pm deadline with all public test cases passing.** To earn attendance credit, students must attend the entire discussion and lab section unless they have approval from their TA to arrive late or leave early. Failure to attend the entire section without prior communication will result in losing attendance credit for that week.
 
 You have **1 lab drop** to use in the event of extenuating circumstances that prevent them from completing the assignment. To use a lab drop, you must message your TA at least one hour prior to the start of your lab, informing them that you will not be in attendance. Note that like lecture drops, lab drops are expected to be used only in the case of illness, emergencies, or other circumstances that prevent you from attending.
 <!--TODO: Not sure if keeping this: When calculating grades, we will automatically drop your lowest lab score. For specific concerns related to your lab section, contact your TA. -->
@@ -87,7 +87,7 @@ Readings are designed to complement the lecture content and prepare you for disc
 <!--[Update 7/31] You will have **1 reading drop**, meaning your lowest reading assignment will be automatically dropped from your grade.-->
 
 ### Discussion
-Each Friday, we will have a two hour discussion section led by your [uGSI]({{site.url}}{{ site.baseurl }}/staff) which is **mandatory to attend**.
+Each Friday, we will have a two hour discussion section led by your [TA]({{site.url}}{{ site.baseurl }}/staff) which is **mandatory to attend**.
 
 Discussions across the term will be separated into two "tracks". Social sciences and technical discussions.
 
