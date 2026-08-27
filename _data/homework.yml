@@ -13,17 +13,17 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - title: Homework 1 (due 9/9 by 11:59pm)
+  - title: Introduction to Python and Jupyter (due 9/9 by 11:59pm)
     # link: 
   - skip: true
-  - title: Homework 2 (due 9/16 by 11:59pm)
+  - title: Arrays and Table Fundamentals (due 9/16 by 11:59pm)
     # link: 
   - skip: true
   - skip: true
-  - title: Homework 3 (due 10/7 by 11:59pm)
+  - title: Visualizations & Variables (due 10/7 by 11:59pm)
   - skip: true
   - skip: true
-  - title: Homework 4 (due 11/4 by 11:59pm)
+  - title: Dictionaries (due 11/4 by 11:59pm)
   - skip: true
   - skip: true
-  - title: Homework 5 (due 11/25 by 11:59pm)
+  - title: Functions and Conditionals (due 11/25 by 11:59pm)
