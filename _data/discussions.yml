@@ -14,17 +14,17 @@
 # link overrides the default link to the discussion page from the collection if
 # you provided a slug or provides an external link
 discussions:
-  - title: Course Questions
+  - title: Introductions & Data Science
     link: https://docs.google.com/presentation/d/108UPwAYAGVVauozM0jIeAmLemr8Nv5Mvk4Mab2y0aA8/edit?slide=id.g3fadccd92bd_2_231#slide=id.g3fadccd92bd_2_231
     date: 2026-08-28
   - title: Considering Fractions
     # link: https://drive.google.com/drive/folders/1smblQuQSA7cDw1sBA9tGrmqhR34Pru25?usp=drive_link
     date: 2026-09-04
-  - title: Documentation, Array Operations and Table Methods
-    # link: https://drive.google.com/drive/folders/1ISFmBWdEdeIFgRWXeKHiejL14TAf8Kl1?usp=drive_link
-    date: 2026-09-11
   - title: Reflexivity
     # link: https://easyretro.io/publicboard/dpdLysoRBJgS0TSPiKLZDVEgc1W2/af8b6732-8d51-4b46-97eb-c03c4307b067
+    date: 2026-09-11
+  - title: Documentation, Array Operations and Table Methods
+    # link: https://drive.google.com/drive/folders/1ISFmBWdEdeIFgRWXeKHiejL14TAf8Kl1?usp=drive_link
     date: 2026-09-18
   - title: Quiz 1 Review
     # link: https://drive.google.com/drive/folders/1Zn57ZB7FFRF7etOUHa0lSkdGC-uEmusE?usp=drive_link

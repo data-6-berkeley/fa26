@@ -17,6 +17,7 @@ UC Berkeley, Fall 2026
 
 [Ed](https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion){: .btn .btn-ed}
 [Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}){: .btn .btn-gradescope}
+[Extensions](https://forms.gle/zwS8Bkbwr97hQtgs8){: .btn .btn-extensions}
 <!--[Lecture Recordings](https://bcourses.berkeley.edu/courses/{{ site.bcourses_course_id }}/external_tools/90481){: .btn .btn-bcourses}-->
 <!-- [Jump to Current Week]({{site.url}}{{ site.baseurl }}/#week-9-functions-and-control-1){: .btn .btn-currweek} -->
 

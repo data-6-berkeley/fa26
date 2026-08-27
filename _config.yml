@@ -53,6 +53,8 @@ aux_links:
   # TODO(template): Move this to be built-in.
   Ed:
     - 'https://edstem.org/us/courses/101240/'
+  Extensions:
+    - 'https://forms.gle/zwS8Bkbwr97hQtgs8'
 Notes:
     - 'https://data6.org/notes/'
 

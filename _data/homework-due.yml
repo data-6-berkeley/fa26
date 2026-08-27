@@ -5,8 +5,8 @@
 homework-due:
   - skip: true
   - title: Introduction to Python and Jupyter
-  - title: Arrays and Table Fundamentals
   - skip: true
+  - title: Arrays and Table Fundamentals
   - skip: true
   - skip: true
   - title: Visualizations & Variables

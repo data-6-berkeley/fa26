@@ -18,6 +18,10 @@ extra_days_col2:
 # Use this to provide extra links in the third (reading) column
 extra_links_col3:
   - date: "2026-08-28"
+    title: Discussion 1 (due 8/28 by 11:59pm)
+    label: discussion
+    link: https://www.gradescope.com/courses/1362504
+  - date: "2026-08-28"
     title: Survey 1 (due 8/31 by 11:59pm)
     label: survey
     link: https://docs.google.com/forms/d/e/1FAIpQLScTGch5sb6V2gs_f8wZWuk7OdnCzMDD6vWWCMD0TR4R6Zw_YA/viewform?usp=publish-editor

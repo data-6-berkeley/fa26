@@ -20,9 +20,9 @@
 
 lectures:
   - slug: data-types-arrays
-  - slug: tables
   - title: <b>Holiday - No Lecture</b>
     nonumber: true
+  - slug: tables
   - slug: filtering
   - slug: visualizations
   - slug: variables

@@ -13,15 +13,15 @@
 # link overrides the default link to the lab page from the collection if
 # you provided a slug or provides an external link
 labs:
-  - title: Introductions, What is Data Science, Notebooks
+  - title: Notebooks
     link: 
   - title: Python Names
     link:
-  - title: Print, Arrays, & Tables
-    link: 
   - title: Reflexivity 
     link: 
-  - title: TODO Need Lab
+  - title: Print, Arrays, & Tables
+    link: 
+  - title: TBD
     link: 
   - title: Visualizations
     link: 
@@ -29,7 +29,7 @@ labs:
     link: 
   - title: Summary Statistics
     link: 
-  - title: TODO Need Lab
+  - title: TBD
     link: 
   - title: Dictionaries
     link: 
