@@ -11,5 +11,5 @@ date: 2026-08-26
 
 ## Discussion & Lab Due
 - [Discussion 1](https://www.gradescope.com/courses/1362504) is due at 11:59pm on August 28th
-- [Lab 1]() is due at 11:59pm on August 28th
+- {{site.links.lab.lab01}} is due at 11:59pm on August 28th
 
