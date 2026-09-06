@@ -1,10 +1,12 @@
 ---
-title: WMD, Names, Operations
-description: Discussion 1
-# gradescope_assignment_id: 
-# pdfs:
-#     - dis01.pdf
-# links:
-#     - name: Discussion 1 Handout
-#       url: https://drive.google.com/file/d/1rl5TLpZde5dx15b806IXHqU4NIgZxWli/view
+published: true
+title: Weapons of Math Destruction
+description: Discussion 2
+links:
+    - name: Slides
+      url: https://docs.google.com/presentation/d/13IGcpeZd-tlzWv1g_-rph0L2qqk3_qRGKY7LRGpY34U/edit?usp=drive_link
+    - name: Worksheet
+      url: https://drive.google.com/file/d/1rpsLyY-FT13ywxSu8sBQzrZODzY3SC-v/view?usp=drive_link
+    - name: Reading
+      url: https://drive.google.com/drive/u/0/folders/1ADpBHrcwW6KhQVqNBfVykS4cDws0I91y
 ---
