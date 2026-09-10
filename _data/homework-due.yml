@@ -5,14 +5,19 @@
 homework-due:
   - skip: true
   - title: Introduction to Python and Jupyter
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main
   - skip: true
   - title: Arrays and Table Fundamentals
+    # link: https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw02%2Fhw02.ipynb&branch=main
   - skip: true
   - skip: true
   - title: Visualizations & Variables
+    # link: https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main
   - skip: true
   - skip: true
   - title: Dictionaries
+    # link: https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main
   - skip: true
   - skip: true
   - title: Functions and Conditionals
+    # link: https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw05%2Fhw05.ipynb&branch=main

@@ -7,19 +7,30 @@
 # link provides an external link
 
 readings:
-  - title: Notes 01; O’Neil Weapons of Math Destruction Ch. 3 (due 9/3 by 11:59pm)
+  - title: Notes 01; O'Neil Weapons of Math Destruction Ch. 3 (due 9/3 by 11:59pm)
     link: https://www.gradescope.com/courses/1362504/assignments/8497410
   - title: Reading 2 (due 9/10 by 11:59pm)
     link: https://www.gradescope.com/courses/1362504/assignments/8497613
   - title: Reading 3 (due 9/17 by 11:59pm)
+    # link: https://www.gradescope.com/courses/1362504/assignments/8497614
   - title: Reading 4 (due 9/24 by 11:59pm)
+    # link: https://www.gradescope.com/courses/1362504/assignments/8497615
   - title: Reading 5 (due 10/1 by 11:59pm)
+    # link: https://www.gradescope.com/courses/1362504/assignments/8497617
   - title: Reading 6 (due 10/8 by 11:59pm)
+    # link: https://www.gradescope.com/courses/1362504/assignments/8497618
   - title: Reading 7 (due 10/15 by 11:59pm)
+    # link: https://www.gradescope.com/courses/1362504/assignments/8497619
   - title: Reading 8 (due 10/22 by 11:59pm)
+    # link: https://www.gradescope.com/courses/1362504/assignments/8497620
   - title: Reading 9 (due 10/29 by 11:59pm)
+    # link: https://www.gradescope.com/courses/1362504/assignments/8497621
   - title: Reading 10 (due 11/5 by 11:59pm)
+    # link: https://www.gradescope.com/courses/1362504/assignments/8497623
   - title: Reading 11 (due 11/12 by 11:59pm)
+    # link: https://www.gradescope.com/courses/1362504/assignments/8497624
   - title: Reading 12 (due 11/19 by 11:59pm)
+    # link: https://www.gradescope.com/courses/1362504/assignments/8497625
   - skip: true
   - title: Reading 13 (due 12/3 by 11:59pm)
+    # link: https://www.gradescope.com/courses/1362504/assignments/8497626
