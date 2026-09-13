@@ -1,7 +1,7 @@
 ---
 title: Week 4 Announcement
 week: 4
-date: 2026-09-14
+date: 2026-09-13
 ---
 
 ## Office Hours
