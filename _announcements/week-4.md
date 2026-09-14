@@ -12,6 +12,6 @@ date: 2026-09-13
 
 ## Week 3 Assignments
 
-- {{site.links.hw.hw02}} is due at 11:59pm on September 23rd
-- {{site.links.reading.reading03}} is due at 11:59pm on September 17th
-- {{site.links.lab.lab04}} is due 11:59pm on September 20th
+- Homework 2 is due at 11:59pm on September 23rd
+- Reading 3 is due at 11:59pm on September 17th
+- Lab 4 is due 11:59pm on September 20th
