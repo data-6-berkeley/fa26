@@ -17,7 +17,7 @@ homework:
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main
   - skip: true
   - title: Arrays and Table Fundamentals (due 9/23 by 11:59pm)
-    # link: https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw02%2Fhw02.ipynb&branch=main
+    link: https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw02%2Fhw02.ipynb&branch=main
   - skip: true
   - skip: true
   - title: Visualizations & Variables (due 10/14 by 11:59pm)
