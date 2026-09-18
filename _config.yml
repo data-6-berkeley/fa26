@@ -293,7 +293,7 @@ links:
   lab:
     lab01: "[Lab 1](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab01%2Flab01.ipynb&branch=main)"
     lab02: "[Lab 2](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab02%2Flab02.ipynb&branch=main)"
-    lab04: "Lab 4" #[Lab 4](https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab02%2Flab04.ipynb&branch=main)"
+    lab04: "[Lab 4](https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab02%2Flab04.ipynb&branch=main)"
   hw:
     hw01: "[Homework 1](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main)"
     hw02: "[Homework 2](https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw02%2Fhw02.ipynb&branch=main)"
