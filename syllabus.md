@@ -60,7 +60,9 @@ We are a much smaller course than many of the Data Science classes you may encou
 
 Monday lectures will be held from 10AM to 12PM. 
 
-You have **1 lecture drop**, meaning you can miss 1 lecture without penalty, after the first lecture. This drop is not intended to be a “free-pass” to skip a lecture: please reserve them for unexpected personal or family emergencies, sickness, etc. When calculating grades, we will automatically drop the lowest lecture attendance from your grade.
+You have **1 unexcused lecture absence**, meaning you can miss 1 lecture without penalty and prior notification. When calculating grades, we will automatically drop the lowest lecture attendance from your grade.
+
+You have **unlimited excused lecture absences**. These absences are not intended to be a “free-pass” to skip a lecture: **please reserve them for sudden personal or family emergencies, sickness, etc.** Whether a lecture is to be excused is up to the discretion of the instructors. Excused lecture absences will not negatively impact your grade. For a lecture absence to be excused, please contact the instructors as soon as possible, but no later than 30 minutes before the start of class; otherwise, the absence will be counted as unexcused.
 
 ### Lab
 
@@ -68,7 +70,10 @@ Lab notebooks will give you an opportunity to apply the concepts you learn in le
 
 **80% of lab credit will be attendance-based. The remaining 20% of credit will be awarded for submitting the lab to Gradescope by the 11:59 pm deadline with all public test cases passing.** To earn attendance credit, students must attend the entire discussion and lab section unless they have approval from their TA to arrive late or leave early. Failure to attend the entire section without prior communication will result in losing attendance credit for that week.
 
-You have **1 lab drop** to use in the event of extenuating circumstances that prevent them from completing the assignment. To use a lab drop, you must message your TA at least one hour prior to the start of your lab, informing them that you will not be in attendance. Note that like lecture drops, lab drops are expected to be used only in the case of illness, emergencies, or other circumstances that prevent you from attending.
+You have **1 unexcused lab drop** to use in the event of extenuating circumstances that prevent you from completing the assignment.
+
+You have **unlimited excused lab attendances**, to be used only in cases of unexpected personal emergencies, sickness, etc., which will not negatively impact your grade. These excused absences are not intended to be a “free-pass” to skip a lab: **please reserve them for sudden personal or family emergencies, sickness, etc.** Whether a lab is to be excused is up to the discretion of the TA. For lab attendance to be excused, please contact the TA as soon as possible, but no later than 30 minutes before the start of lab; otherwise, the absence will be counted as unexcused. Furthermore, you must complete your lab assignment with all test cases passing (if there are any) by the assignment deadline to receive lab attendance credit.
+
 <!--TODO: Not sure if keeping this: When calculating grades, we will automatically drop your lowest lab score. For specific concerns related to your lab section, contact your TA. -->
 
 ### Readings
