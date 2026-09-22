@@ -6,7 +6,7 @@
 projects:
   - title: "Project 1"
     date: 2026-09-21
-    link: 
+    link: https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb&branch=main
     label-number: 1
   - title: Project 2
     date: 2026-10-26
