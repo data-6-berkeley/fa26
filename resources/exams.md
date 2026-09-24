@@ -26,7 +26,7 @@ published: true
 [Click Here](https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fsandbox%2Fsandbox.ipynb&branch=main) to make a practice workspace! Here you can use all of the datasets we've used in this course and complete your own coding challenges.
 
 ## Using AI as a Study Tool
-While this course maintains a rather strict approach to using AI for *doing* activities, we firmly believe Generative AI tools can be powerful for *making* practice activities. The following section provides tips and tricks for using Generative AI wisely.
+While this course maintains a rather strict approach to using AI for *doing* coding activities, we firmly believe Generative AI tools can be powerful for *making* practice activities. The following section provides tips and tricks for using Generative AI wisely.
 
 When designing practice activities, we recommend using a tool like [Gemini Notebook](https://notebook.google/). Use your CalNetID to make an account, and make your own notebook for Data 6! Three components are necessary to use Generative AI in this way: rich **context**, **clear** prompts, and focused **concepts**. 
 
