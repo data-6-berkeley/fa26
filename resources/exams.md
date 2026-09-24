@@ -22,6 +22,48 @@ published: true
 
 ---
 
+## Data 6 Coding Sandbox
+[Click Here](https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fsandbox%2Fsandbox.ipynb&branch=main) to make a practice workspace! Here you can use all of the datasets we've used in this course and complete your own coding challenges.
+
+## Using AI as a Study Tool
+While this course maintains a rather strict approach to using AI for *doing* activities, we firmly believe Generative AI tools can be powerful for *making* practice activities. The following section provides tips and tricks for using Generative AI wisely.
+
+When designing practice activities, we recommend using a tool like [Gemini Notebook](https://notebook.google/). Use your CalNetID to make an account, and make your own notebook for Data 6! Three components are necessary to use Generative AI in this way: rich **context**, **clear** prompts, and focused **concepts**, 
+
+### Context
+Gemini Notebook allows us to use multiple resources tailored to our course setting. We recommend uploading each of the files to a notebook:
+* Course Reference Sheet
+* Any lecture slideshow (download as a `.pdf` file).
+* Lab notebooks (download as `.md` files).
+* Specific datasets you want to work with.
+
+### Clear Prompts
+Once your environment is set up, you may begin writing prompts to generate the practice questions! We recommend prompts with the following structure:
+* Include a **detailed persona**: `You are a friendly, helpful teaching assistant for UC Berkeley's Data 6 Course.`
+* Give an instruction: `Generate a [easy/medium/hard]-difficulty [Problem Type] problem focused on the [topic name] topic from the provided files.`
+   * Problem Types Include:
+       * Coding Challenge
+       * True or False
+       * Multiple Choice
+* (Optional) Specify the dataset: `The problem should use the [Dataset Filename.csv] dataset.`
+
+For example:
+`You are a friendly, helpful teaching assistant for UC Berkeley's Data 6 Course. Generate a medium-difficulty Coding Challenge problem, focused on the grouping topic from the provided files. The problem should use the cones.csv dataset. `
+
+`You are a friendly, helpful teaching assistant for UC Berkeley's Data 6 Course. Generate a easy-difficulty True or False problem, focused on the tbl.take() function from the provided files. The problem should use the cones.csv dataset. `
+
+
+### Concepts
+When using GenAI, the more specific about your topic you can become, the helpful it will be for making targeted questions. This can be tricky at the start of the course, since Data 6 covers a lot! 
+* Refer to lecture topic titles on our [Course Schedule]({{ site.baseurl }})
+* You can also select particular functions in our [Reference Sheet](https://data6.org/notes/reference)
+The more precise your topic, the easier it will be to add to your prompt!
+
+
+
+
+
+
 ## Exam Reference Sheets ##
 * [Summer 2026 Quiz 1 Reference Sheet]({{ site.baseurl }}/exams/refsheets/su26-quiz1-refsheet.pdf)
 
