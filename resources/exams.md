@@ -36,6 +36,7 @@ Gemini Notebook allows us to use multiple resources tailored to our course setti
 * Any lecture slideshow (download as a `.pdf` file).
 * Lab notebooks (download as `.md` files).
 * Specific datasets you want to work with.
+    * **CAUTION**: Only upload any dataset that is open-source/available for public access. All of the datasets we use in this course meet this standard. **NEVER** upload a dataset with live research data, which is often protected by your institution.
 
 ### Clear Prompts
 Once your environment is set up, you may begin writing prompts to generate the practice questions! We recommend prompts with the following structure:
