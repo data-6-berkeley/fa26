@@ -28,11 +28,11 @@ published: true
 ## Using AI as a Study Tool
 While this course maintains a rather strict approach to using AI for *doing* activities, we firmly believe Generative AI tools can be powerful for *making* practice activities. The following section provides tips and tricks for using Generative AI wisely.
 
-When designing practice activities, we recommend using a tool like [Gemini Notebook](https://notebook.google/). Use your CalNetID to make an account, and make your own notebook for Data 6! Three components are necessary to use Generative AI in this way: rich **context**, **clear** prompts, and focused **concepts**, 
+When designing practice activities, we recommend using a tool like [Gemini Notebook](https://notebook.google/). Use your CalNetID to make an account, and make your own notebook for Data 6! Three components are necessary to use Generative AI in this way: rich **context**, **clear** prompts, and focused **concepts**. 
 
 ### Context
 Gemini Notebook allows us to use multiple resources tailored to our course setting. We recommend uploading each of the files to a notebook:
-* Course Reference Sheet
+* [Course Reference Sheet](https://data6.org/notes/reference).
 * Any lecture slideshow (download as a `.pdf` file).
 * Lab notebooks (download as `.md` files).
 * Specific datasets you want to work with.
