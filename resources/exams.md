@@ -34,7 +34,6 @@ When designing practice activities, we recommend using a tool like [Gemini Noteb
 Gemini Notebook allows us to use multiple resources tailored to our course setting. We recommend uploading each of the files to a notebook:
 * [Course Reference Sheet](https://data6.org/notes/reference).
 * Any lecture slideshow (download as a `.pdf` file).
-* Lab notebooks (download as `.md` files).
 * Specific datasets you want to work with.
     * **CAUTION**: Only upload any dataset that is open-source/available for public access. All of the datasets we use in this course meet this standard. **NEVER** upload a dataset with live research data, which is often protected by your institution.
 
