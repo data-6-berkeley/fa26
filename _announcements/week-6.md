@@ -1,0 +1,12 @@
+---
+title: Week 6 Announcement
+week: 6
+date: 2026-09-27
+---
+
+## Office Hours
+- JP (SOCS 350J) from 2pm - 3pm on Wednesdays
+  - To reduce waiting outside my office, JP will now offer appointments during office hours
+  - [Book an appointment here](https://calendar.app.google/uydGDQmHXL4PEyqs9) for a 30 min appointment
+- John (SOCS 350J) from 12pm - 2pm on Mondays
+- Brandon (Gateway B1040E) from 12:30pm - 2pm on Thursdays
