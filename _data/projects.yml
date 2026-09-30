@@ -4,7 +4,7 @@
 # label number is optional. You can make this 
 # 1, 2, 3, etc. or A, B, C, etc. or whatever you want
 projects:
-  - title: "Project 1"
+  - title: "Project 1 (due 10/5 by 11:59pm)"
     date: 2026-09-21
     link: https://ursa.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa26&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb&branch=main
     label-number: 1
