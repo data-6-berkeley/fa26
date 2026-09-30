@@ -26,13 +26,12 @@ labs:
     link: 
   - title: Food Safety
     link: 
-  - title: Summary Statistics
+  - title: Summary Statistics & Visualizations
     link: 
-  - title: TBD
+  - skip: true
+  - title: Pivots, Joins, & Measurement
     link: 
-  - title: Dictionaries
-    link: 
-  - title: Pivots & Joins | BeautifulSoup
+  - title: Dictionaries & BeautifulSoup
     link: 
   - title: Iterations
     link:
