@@ -27,8 +27,7 @@ discussions:
   - title: Quiz 1 Review
     link: https://docs.google.com/presentation/d/1r1ir9X7sIqjWDrPzdS5ECEXazSiil9rQeiixKbsuvBE/edit?usp=sharing
     date: 2026-09-25
-  - title: Visualizations
-    # link: https://drive.google.com/drive/folders/1YdeOJoEjc0VxbBGTxAtQEuaQg97l5xkr?usp=drive_link
+  - slug: visuals
     date: 2026-10-02
   - title: Simpson's Paradox
     # link: https://drive.google.com/drive/folders/1aGN5n7CwV9Yuw9Ho7WqDckmQ9pNPCypV?usp=drive_link
