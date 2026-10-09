@@ -27,12 +27,12 @@ lectures:
   - slug: visualizations
   - slug: variables
   - slug: stats
+  - slug: control
+  - slug: beautifulsoup
+  - slug: dictionaries
+  - slug: functions
   - slug: pivots-joins
   - slug: computational-social-science
-  - slug: dictionaries
-  - slug: control
-  - slug: functions
-  - slug: functions-iterations
   - slug: ai-nlp
   - title: RRR Week
     nonumber: true

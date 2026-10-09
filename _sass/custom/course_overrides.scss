@@ -16,3 +16,12 @@ div.site-header {
 .site-logo {
   background-position: center;
 }
+
+// TODO Fix this to interact with the rest of the course website
+// Hard coded to have a color for students to go to a specific week
+a.btn.btn-currweek {
+  color: #e6e1e8 !important;
+  background-color: #fa7768;
+  background-image: linear-gradient(#fb968b, #fa7768);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12);
+}
