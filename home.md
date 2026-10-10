@@ -19,7 +19,7 @@ UC Berkeley, Fall 2026
 [Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}){: .btn .btn-gradescope}
 [Extensions](https://forms.gle/zwS8Bkbwr97hQtgs8){: .btn .btn-extensions}
 <!--[Lecture Recordings](https://bcourses.berkeley.edu/courses/{{ site.bcourses_course_id }}/external_tools/90481){: .btn .btn-bcourses}-->
-[Jump to Current Week]({{site.url}}{{ site.baseurl }}/#week-7){: .btn .btn-currweek}
+[Jump to Current Week]({{site.url}}{{ site.baseurl }}/#week-8){: .btn .btn-currweek}
 
 {% include announcement-navigation.html %}
 
