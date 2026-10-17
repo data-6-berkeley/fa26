@@ -10,4 +10,5 @@ date: 2026-10-18
   - [Book an appointment here](https://calendar.app.google/k8g9ufw8kkb3qDDx8) for a 30 min appointment
 - JP (SOCS 350J) from 2pm - 3pm on Wednesdays
   - [Book an appointment here](https://calendar.app.google/uydGDQmHXL4PEyqs9) for a 30 min appointment
+  - JP has now also opened zoom appointments from 5-6pm on Mondays and Wednesdays
 - Brandon (Gateway B1040E) from 12:30pm - 2pm on Thursdays
