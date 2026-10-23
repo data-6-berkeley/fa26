@@ -10,7 +10,7 @@ Follow the installation and usage instructions below for development work on the
 Rather than using Docker containers (and VSCode's devcontainer extension), instead we will install our project dependencies "locally".
 
 #### Install Ruby and Bundler
-**The berkeley-class-site template requires Ruby 3.3.9 or higher and bundler >= 2.6**
+**The berkeley-class-site template requires Ruby 3.3.13 or higher and bundler >= 2.6**
 Install Ruby before continuing. You can check your Ruby version by running:
 
 ```bash
