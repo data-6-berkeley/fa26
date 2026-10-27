@@ -11,7 +11,7 @@ end_date: "2026-12-18"
 # like exams or bonus lectures) can be listed here. These appear in the second column.
 extra_days_col2:
   - date: "2026-12-14"
-    title: Final Exam (8am - 11am; Location TBD)
+    title: Final Exam (8am - 11am; Section 01 - CORY247; Section 02 - CORY241)
     label: exam
 
 # The dates used in extra_links_col3 below must already be included on the calendar
