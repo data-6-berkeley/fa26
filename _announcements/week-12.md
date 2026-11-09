@@ -8,6 +8,6 @@ date: 2026-11-08
 - Please ring the doorbell to let John or JP know you are there for your appointment
 - John (SOCS 350J) from 12pm - 2pm on Mondays
   - [Book an appointment here](https://calendar.app.google/k8g9ufw8kkb3qDDx8) for a 30 min appointment
-- JP (SOCS 350J) from 2pm - 3pm on Wednesdays; Zoom on Mondays & Wednesdays from 5 - 6pm
+- JP (SOCS 350J) from 9:30am - 10:30am on Tuesday; Zoom on Mondays from 5 - 6pm this week
   - [Book an appointment here](https://calendar.app.google/uydGDQmHXL4PEyqs9) for a 30 min appointment
 - Brandon (Gateway B1040E) from 12:30pm - 2pm on Thursdays
