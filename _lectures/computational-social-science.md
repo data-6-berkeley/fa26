@@ -1,6 +1,6 @@
 ---
 published: true
-title: Measurement and... Games?
+title: Measurement and Games
 presented_by: John Louis-Strakes Lopez
 # files:
 #   slides: 
