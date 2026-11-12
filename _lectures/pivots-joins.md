@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: John Louis-Strakes Lopez 
-title: "Pivots & Joining"
+title: "Computational Social Science"
 # files:
 #   slides: 
 #   pdf_slides:
