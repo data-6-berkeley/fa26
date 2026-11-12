@@ -1,6 +1,6 @@
 ---
 published: true
-title: Computational Social Science
+title: Measurement and... Games?
 presented_by: John Louis-Strakes Lopez
 # files:
 #   slides: 
